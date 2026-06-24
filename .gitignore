@@ -1,0 +1,16 @@
+# React
+frontend/node_modules/
+
+# Spring Boot
+backend/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
